@@ -10,12 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ddaa76-edb9-4833-850e-fe2bafa29188" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/CustomerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/CustomerServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Models/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Models/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Controller/EventServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/EventServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +28,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="KristianHartmann" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Hartmann" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -186,5 +187,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Title in index" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Title in index" />
   </component>
 </project>
