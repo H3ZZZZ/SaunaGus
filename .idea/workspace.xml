@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ddaa76-edb9-4833-850e-fe2bafa29188" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Controller/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/CustomerServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Controller/EventServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/EventServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/CustomerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/CustomerServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Hartmann" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
@@ -50,6 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -159,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648464095834</updated>
       <workItem from="1648464097334" duration="1484000" />
-      <workItem from="1648465610637" duration="2639000" />
+      <workItem from="1648465610637" duration="3228000" />
     </task>
     <servers />
   </component>
