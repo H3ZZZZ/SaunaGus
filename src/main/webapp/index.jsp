@@ -15,5 +15,6 @@
 <h1> Dette er index siden. Vi er under opbygning </h1>
 
 <a href="CustomerInfoPage.jsp">Klik her for at gå til CustomerPageInfo</a>
+<p> Det er en fed side.</p>
 </body>
 </html>

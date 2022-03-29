@@ -10,8 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47ddaa76-edb9-4833-850e-fe2bafa29188" name="Changes" comment="Added Title in index. Added LocalDate in event">
-      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
