@@ -9,11 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47ddaa76-edb9-4833-850e-fe2bafa29188" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Models/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Models/Event.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/Controller/EventServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Controller/EventServlet.java" afterDir="false" />
+    <list default="true" id="47ddaa76-edb9-4833-850e-fe2bafa29188" name="Changes" comment="Added Title in index. Added LocalDate in event">
+      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/Models/Event.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SaunaGus-1.0-SNAPSHOT/WEB-INF/classes/com/example/Controller/EventServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +170,14 @@
       <workItem from="1648464097334" duration="1484000" />
       <workItem from="1648465610637" duration="3228000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Title in index. Added LocalDate in event">
+      <created>1648471957842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648471957842</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +196,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Title in index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Title in index" />
+    <MESSAGE value="Added Title in index. Added LocalDate in event" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Title in index. Added LocalDate in event" />
   </component>
 </project>
